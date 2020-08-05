@@ -1,0 +1,18 @@
+<rss version="2.0">
+  <!-- <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom"> -->
+  <channel>
+    <title>Slem høgnorsk mat</title>
+    <description>Snild mat laga av slemme høgnorske karar.</description>
+    <link>https://aelipus.github.io/rss.xml</link>
+    <!-- <atom:link href="https://aelipus.github.io/rss.xml" rel="self" type="application/rss+xml"/> -->
+    <!-- BLOG -->
+    <item>
+      <title>Pasta med lauk og tomat</title>
+      <guid>https://aelipus.github.io/uppskrifter/pasta_med_lauk_og_tomat.html</guid>
+      <pubDate>Wed, 05 Aug 2020</pubDate>
+      <description>
+        <p>Pasta med lauk og tomat.</p>
+      </description>
+    </item>
+  </channel>
+</rss>
