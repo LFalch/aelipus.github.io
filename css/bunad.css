@@ -4,21 +4,17 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0 auto;
+	max-width: 1000px;
     padding: 0 0.9375rem;   
-}
-
-.innhald {
-  max-width: 1000px;
-  margin: auto;
 }
 
 .hovudlut {
 	float: left;
-	width: 70%;
+	width: 700px;
 }
 
 .peikarar {
 	float: right;
-	width: 30%;
+	width: 300px;
 	border-left: 1px solid black;
 }
