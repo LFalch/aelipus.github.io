@@ -1,3 +1,13 @@
+body {
+    font-family: georgia;
+    font-size: 1.125rem;
+    display: flex;
+    flex-direction: column;
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 0 0.9375rem;   
+}
+
 .innhald {
   max-width: 700px;
   margin: auto;
