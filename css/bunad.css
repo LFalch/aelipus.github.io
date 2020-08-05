@@ -1,0 +1,9 @@
+.innhald {
+  max-width: 700px;
+  margin: auto;
+}
+
+.peikarar {
+	float: right;
+	border-right: 1px solid black;
+}
