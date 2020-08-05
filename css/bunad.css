@@ -3,18 +3,23 @@ body {
     font-size: 1.125rem;
     display: flex;
     flex-direction: column;
+    max-width: 50rem;
     margin: 0 auto;
-
     padding: 0 0.9375rem;   
+}
+
+.innhald {
+  max-width: 1000px;
+  margin: auto;
 }
 
 .hovudlut {
 	float: left;
-	width: 700px;
+	width: 60%;
 }
 
 .peikarar {
 	float: right;
-	width: 250px;
+	width: 30%;
 	border-left: 1px solid black;
 }
