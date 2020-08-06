@@ -1,25 +1,64 @@
 <rss version="2.0">
-  <!-- <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom"> -->
-  <channel>
-    <title>Slem høgnorsk mat</title>
-    <description>Snild mat laga av slemme høgnorske karar.</description>
-    <link>https://aelipus.github.io/rss.xml</link>
-    <!-- <atom:link href="https://aelipus.github.io/rss.xml" rel="self" type="application/rss+xml"/> -->
-    <!-- BLOG -->
-    <item>
-      <title>Pasta med lauk og tomat</title>
-      <guid>https://aelipus.github.io/uppskrifter/pasta_med_lauk_og_tomat.html</guid>
-      <pubDate>Wed, 05 Aug 2020</pubDate>
-      <description>
-        <p>Pasta med lauk og tomat.</p>
-      </description>
-    </item>
-    <item>
-      <title>Sjokoladekjeks</title>
-      <guid>https://aelipus.github.io/uppskrifter/sjokoladekjeks.html</guid>
-      <pubDate>Wed, 06 Aug 2020</pubDate>
-      <description>
-        <p>Tunne sjokoladekjeks med kokosolja.</p>
+    <!-- <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom"> -->
+    <channel>
+        <title>Slem høgnorsk mat</title>
+        <description>Snild mat laga av slemme høgnorske karar.</description>
+        <link>https://aelipus.github.io/rss.xml</link>
+        <!-- <atom:link href="https://aelipus.github.io/rss.xml" rel="self" type="application/rss+xml"/> -->
+        <!-- BLOG -->
+        <item>
+            <title>Pasta med lauk og tomat</title>
+            <guid>https://aelipus.github.io/uppskrifter/pasta_med_lauk_og_tomat.html</guid>
+            <pubDate>Wed, 05 Aug 2020</pubDate>
+            <description>
+			    <div style="text-align: center;">
+                    <h1>Pasta med steikt lauk og anna snadder i tomatpuré</h1>
+				</div>
+				<p>Av Eiliv, 5. august 2020</p>
+				<p>Som fyrste innlegg i dette vevritet hev eg tenkt å dela ei framifrå uppskrift med dykk. Det er ein sers einskild og lett pastarett med steikt lauk, kvitlauk og gjerne andre grønsaker mèd. Det einaste ein treng er tvo pannor og ei skjerefjøl</p>				
+				<p><b>Innhald</b></p>
+				Til «sausen»:
+				<ul>
+				    <li>Ein halv lauk</li>
+					<li>Tvo fedd kvitlauk</li>
+					<li>Tvo matskeider med tomatpuré</li>
+					<li>Oliveolja</li>
+					<li>Paprikapulver</li>
+					<li>Bergmynta</li>
+					<li>Timian</li>
+				</ul>
+				Til pastaen:
+				<ul>
+				    <li>Ei skål med pasta</li>
+					<li>Salt</li>
+				</ul>
+				<p>Set ei panna med vatn og litt salt på høg varme. Når vatnet fosskokar hev du i pastaen og lèt koka i ~10 minutt.</p> 
+				<p>Skjer upp den halve lauken i små bitar og hav det i hi panna. Knus so kvitlauken og hav i. Steik med oliveolja til alt er mykt upp og hev ei sterk lukt. Etter det hev du i høveleg mengd med tomatpuré (um lag det uppskrifti viser) og litt vatn. Lat det so verma seg på låg verme til pastaen er ferdug.</p>
+				<p>Hell av vatnet og legg pastaen i hi panna i lag med lauken.</p>
+            </description>
+        </item>
+        <item>
+            <title>Sjokoladekjeks</title>
+            <guid>https://aelipus.github.io/uppskrifter/sjokoladekjeks.html</guid>
+            <pubDate>Wed, 06 Aug 2020</pubDate>
+            <description>
+		        <div style="text-align: center;">
+                    <h1>Sjokoladekjeks</h1>
+		        </div>
+		       <p>Av Eiliv, den 6. august 2020
+		       <p>Denne uppskrifti gjev tunne sprøe kjeks med sterk sjokoladesmak. Dei er sers snøgge og lette å laga og du treng berre ein bolle, ei steikjeplata og ein omn. 
+		       <p><b>Innhald</b></p>
+		       <ul>
+		           <li>50 g kokosolja</li>
+		            <li>1 egg</li>
+					<li>1/2 dL sukker</li>
+					<li>2 ts kakaopulver</li>
+					<li>1 dL mjøl</li>
+				</ul>
+				<p>Rør i hop egg, sukker og kakaopulver i ein bolle. Smelt kokosolja, lat kolna og hav uppi. Bland til du fær ei tjukk jamn røra.</p>
+				<p>Hav uppi mjølet og rør det inn til det vert ein deig. Han skal vera oljut, men mogeleg å taka i med hendene. Hav i meir mjøl um detta vert for vandt.</p>
+				<p>Legg deigen på ei steikjeplata med bakepapir. Skjer upp deigen i åtte like store stykke og flata ut til tunne kjeks. Prikk hòl i kjeksane med ein gaffel.</p>
+				<p>Set i omnen på 200 gradar i upptil 15 min. Sjå jamnleg, for um dei ser ferduge ut, so er det mogelegt at dei er.</p>
       </description>
     </item>
   </channel>
