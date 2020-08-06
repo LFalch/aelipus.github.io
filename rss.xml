@@ -14,5 +14,13 @@
         <p>Pasta med lauk og tomat.</p>
       </description>
     </item>
+    <item>
+      <title>Sjokoladekjeks</title>
+      <guid>https://aelipus.github.io/uppskrifter/sjokoladekjeks.html</guid>
+      <pubDate>Wed, 06 Aug 2020</pubDate>
+      <description>
+        <p>Tunne sjokoladekjeks med kokosolja.</p>
+      </description>
+    </item>
   </channel>
 </rss>
