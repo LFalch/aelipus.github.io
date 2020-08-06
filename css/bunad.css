@@ -3,7 +3,6 @@ body {
     font-size: 1.125rem;
     display: flex;
     flex-direction: column;
-    max-width: 50rem;
     margin: 0 auto;
     padding: 0 0.9375rem;   
 }
@@ -15,12 +14,12 @@ body {
 
 .hovudlut {
 	float: left;
-	width: 60%;
+	width: 65%;
 }
 
 .peikarar {
 	float: right;
-	width: 30%;
+	width: 32%;
 	border-left: 1px solid black;
 }
 
