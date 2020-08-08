@@ -7,6 +7,12 @@ body {
     padding: 0 0.9375rem;   
 }
 
+img {
+    max-width: 100%;
+    display: block;
+    align-self: center;
+}
+
 .innhald {
   width: 850px;
   margin: auto;
