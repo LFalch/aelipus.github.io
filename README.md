@@ -8,3 +8,5 @@ Detta er eit vevrit for mat på høgnorsk. Det hev lette uppskrifter som alle ka
 
 ##### ENGLISH
 This is a blogg about food in Høgnorsk. It had easy recipes that everyone can follow, but written in Høgnorsk by mean Høgnorsk guys. The food, on the other hans, is very kind.
+
+![Kopp](https://aelipus.github.io/bilete/kopp.png)
