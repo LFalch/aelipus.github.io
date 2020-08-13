@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 #variables that will be used later.
-$guestbookreal = "gjestebok.html";
+$guestbookreal = "samband.html";
 $return = "https://aelipus.github.io/samband.html";
 read(STDIN, $buffer, $ENV{'CONTENT_LENGTH'});
 @pairs = split(/&/, $buffer);
