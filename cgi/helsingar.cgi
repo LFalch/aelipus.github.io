@@ -2,7 +2,7 @@
 
 #variables that will be used later.
 $guestbookreal = "gjestebok.html";
-$return = "http://ainalaibar.atwebpages.com/samband.html";
+$return = "https://aelipus.github.io/samband.html";
 read(STDIN, $buffer, $ENV{'CONTENT_LENGTH'});
 @pairs = split(/&/, $buffer);
 foreach $pair(@pairs) {
