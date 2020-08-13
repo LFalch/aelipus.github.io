@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 
 #variables that will be used later.
-$guestbookreal = "samband.html";
-$return = "https://aelipus.github.io/samband.html";
+$guestbookreal = "samband";
+$return = "https://aelipus.github.io/samband";
 read(STDIN, $buffer, $ENV{'CONTENT_LENGTH'});
 @pairs = split(/&/, $buffer);
 foreach $pair(@pairs) {
